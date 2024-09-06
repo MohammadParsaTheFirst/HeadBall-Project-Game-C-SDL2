@@ -1,17 +1,21 @@
 
 # Two-Dimensional Football Game Using C++/SDL2
 
-This project is a two-dimensional football game developed using C++ and SDL2. The game features two players and includes various functionalities such as settings, player statistics, league tables, and more.
+This project is a two-dimensional football game developed using C++ and SDL2. 
+In this game, players control unique characters and engage in exciting one-on-one football matches. The objective is to outscore your opponent by strategically maneuvering your character and using special powers to score goals. The game offers a thrilling and fast-paced gameplay experience, with vibrant visuals and engaging sound effects.
 
+Key features of the game include
 ## Features
 - **Main Menu**: Includes options for settings, entering player names, viewing league tables, and starting the game.
 - **Player Statistics**: Displays player information such as scores, number of games, wins, losses, etc.
 - **League Table**: Shows player names, number of games, wins/draws/losses, goals scored/conceded, goal difference, and points.
-- **Game Start**: Allows customization of player characters, ball type, playing field, and game-ending conditions.
+- **Game Customization**: Allows customization of player characters, ball type, playing field, and game-ending conditions.
 - **Animations and Sound Effects**: Includes animations for player entry, fan reactions, and various sound effects for different game events.
 - **Pause and Resume**: Ability to pause and resume the game.
 - **Cheat Codes**: Includes cheat codes for creative gameplay enhancements.
 - **Special Powers**: Each player has unique special powers that can be activated during the game.
+- **Diversty of characters**: Each player can Choose from a diverse roster of characters, each with their unique power.
+- **Supported Laguages**: You can change the language in the Main Menu(Persian and English are supported
 
 ## Usage
 1. Run the executable to start the game.
@@ -48,5 +52,4 @@ This project is a two-dimensional football game developed using C++ and SDL2. Th
 ## Credits
 - Developed by M.Parsa Dini & M.Parsa M.Sarmad.
 - Special thanks to the SDL2 community for their support and resources.
-"""
 
