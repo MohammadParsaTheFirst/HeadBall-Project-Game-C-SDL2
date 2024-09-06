@@ -1,4 +1,4 @@
-content = """
+
 # Two-Dimensional Football Game Using C++/SDL2
 
 This project is a two-dimensional football game developed using C++ and SDL2. The game features two players and includes various functionalities such as settings, player statistics, league tables, and more.
@@ -46,7 +46,7 @@ This project is a two-dimensional football game developed using C++ and SDL2. Th
 11. **Background Music**: Adds an immersive audio experience to the game.
 
 ## Credits
-- Developed by Your Name
+- Developed by M.Parsa Dini & M.Parsa M.Sarmad.
 - Special thanks to the SDL2 community for their support and resources.
 """
 
