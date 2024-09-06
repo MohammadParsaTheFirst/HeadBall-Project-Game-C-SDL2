@@ -4,7 +4,6 @@
 This project is a two-dimensional football game developed using C++ and SDL2. 
 In this game, players control unique characters and engage in exciting one-on-one football matches. The objective is to outscore your opponent by strategically maneuvering your character and using special powers to score goals. The game offers a thrilling and fast-paced gameplay experience, with vibrant visuals and engaging sound effects.
 
-Key features of the game include
 ## Features
 - **Main Menu**: Includes options for settings, entering player names, viewing league tables, and starting the game.
 - **Player Statistics**: Displays player information such as scores, number of games, wins, losses, etc.
