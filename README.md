@@ -1,16 +1,7 @@
 content = """
-# Two-Dimensional Football Game
+# Two-Dimensional Football Game Using C++/SDL2
 
 This project is a two-dimensional football game developed using C++ and SDL2. The game features two players and includes various functionalities such as settings, player statistics, league tables, and more.
-
-## Table of Contents
-- Features
-- Installation
-- Usage
-- Game Mechanics
-- Controls
-- Special Powers
-- Credits
 
 ## Features
 - **Main Menu**: Includes options for settings, entering player names, viewing league tables, and starting the game.
@@ -21,14 +12,6 @@ This project is a two-dimensional football game developed using C++ and SDL2. Th
 - **Pause and Resume**: Ability to pause and resume the game.
 - **Cheat Codes**: Includes cheat codes for creative gameplay enhancements.
 - **Special Powers**: Each player has unique special powers that can be activated during the game.
-
-## Installation
-1. Clone the repository:
-   \`\`\`bash
-   git clone https://github.com/yourusername/football-game.git
-   \`\`\`
-2. Install the required dependencies and libraries for SDL2.
-3. Compile the project using your preferred C++ compiler.
 
 ## Usage
 1. Run the executable to start the game.
@@ -41,6 +24,8 @@ This project is a two-dimensional football game developed using C++ and SDL2. Th
 - **Ball Interaction**: The ball is thrown from the center of the field at the start and after each goal. The ball's interaction with players is elastic, with a mass ratio of 1:10.
 - **Shooting**: The ball can be shot at fixed angles depending on where it hits the player's foot.
 - **Game End Conditions**: The game ends when a player reaches a specified number of goals. If both players have the same number of goals below the final goal count, the game is declared a draw.
+  However the "End Game Criterion" can be choosen in the Menu that pops up before the game starts.
+- **Laguages**: You can change the language in the Main Menu(Persian and English are supported).
 
 ## Controls
 - **Player 1**: Arrow keys for movement.
